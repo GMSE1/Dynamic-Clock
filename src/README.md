@@ -19,7 +19,7 @@ Ensure your local computer has:
 
 1. Clone the repository or download the project files:
 
-git clone git@github.com:GMSE1/Digital-Clock.git
+git clone git@github.com:GMSE1/Dynamic-Clock.git
 cd color-clock
 
 2. Install the dependencies:
